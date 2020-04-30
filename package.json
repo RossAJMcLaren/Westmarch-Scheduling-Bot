@@ -1,11 +1,25 @@
 {
-	"name": "Westmarch-Chronicler",
-	"version": "1.0.0",
-	"description": "Westmarch Scheduling Bot",
-	"main": "westmarchChronicler.js",
-	"author": "Ross AJ McLaren",
-	"dependencies": {
-		"discord.js": "^12.2.0",
-		"dotenv": "^8.2.0"
-	}
+  "name": "Westmarch-Chronicler",
+  "version": "1.0.0",
+  "description": "Westmarch Scheduling Bot",
+  "main": "westmarchChronicler.js",
+  "author": "Ross AJ McLaren",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RossAJMcLaren/Westmarch-Scheduling-Bot.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RossAJMcLaren/Westmarch-Scheduling-Bot/issues"
+  },
+  "homepage": "https://github.com/RossAJMcLaren/Westmarch-Scheduling-Bot#readme"
 }
