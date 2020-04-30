@@ -1,0 +1,11 @@
+{
+	"name": "Westmarch-Chronicler",
+	"version": "1.0.0",
+	"description": "Westmarch Scheduling Bot",
+	"main": "westmarchChronicler.js",
+	"author": "Ross AJ McLaren",
+	"dependencies": {
+		"discord.js": "^12.2.0",
+		"dotenv": "^8.2.0"
+	}
+}
